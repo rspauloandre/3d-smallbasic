@@ -1,0 +1,8 @@
+### SmallBasic ###
+## Ignore SmallBasic temporary files, build results, and
+*.exe
+*.pdb
+*.dll
+*.lib
+
+# End of .gitignore
